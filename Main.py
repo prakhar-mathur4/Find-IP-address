@@ -11,7 +11,7 @@ my_ip = s.gethostbyname(my_hostname)
 print('Your Ip Address is: ' + my_ip)
 
 #set the hostname
-host = 'peenakoverseas.com'
+host = 'xyz.com'
 #fetch the IP
 ip = s.gethostbyname(host)
 
